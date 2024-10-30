@@ -10,15 +10,6 @@
 	<h1 style="color: grey; font-size: 40px;" align="center">we are done with ci/cd</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">we integraded nexus also/cd</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus also</h1>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	<h1 style="color: brown; font-size: 40px;" align="center">i am dev-2 </h1>
 </body>
 </html>
